@@ -1,6 +1,6 @@
 module.exports = {
     title: 'node start',
-    base: '/docs/',
+    base: '/node-start/',
     description: 'node start',
     themeConfig: {
         nav: [
