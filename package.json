@@ -20,5 +20,8 @@
   "homepage": "https://github.com/hanyanjun/node-start#readme",
   "dependencies": {
     "vuepress": "^1.9.7"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-nprogress": "^1.9.7"
   }
 }
